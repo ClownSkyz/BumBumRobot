@@ -66,7 +66,7 @@ def markdown_help_sender(update: Update):
 def markdown_help(update: Update, context: CallbackContext):
     if update.effective_chat.type != "private":
         update.effective_message.reply_text(
-            "🐻 Unch Gladdy Contact Me In PM",
+            "🎧 Unch Gladdy Contact Me In PM",
             reply_markup=InlineKeyboardMarkup(
                 [
                     [
