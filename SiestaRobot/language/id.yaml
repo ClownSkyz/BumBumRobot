@@ -39,7 +39,7 @@ pm_about_text: |
 pm_about_admin_text: |
   *✺ Ayo buat grupmu sedikit efektif sekarang ✺*
 
-  Selamat, Robot Siesta sekarang siap untuk mengelola grup Anda.
+  Selamat, Music Bot sekarang siap untuk mengelola grup Anda.
 
   *Alat Admin*
   Alat Admin Dasar membantu Anda melindungi dan memperkuat grup Anda.
@@ -54,13 +54,13 @@ pm_about_notes_text: |
   ✪ Anda dapat menyimpan pesan/media/audio atau apa pun sebagai catatan untuk mendapatkan catatan cukup gunakan # di awal kata"
   ✪ Anda juga dapat mengatur tombol untuk catatan dan filter (lihat menu bantuan)
 pm_about_support_text: |
-  *✺ Obrolan dukungan Robot Siesta ✺*
+  *✺ Obrolan dukungan Music Bot ✺*
 
   Bergabunglah dengan Grup/Saluran Dukungan Saya untuk melihat atau melaporkan masalah di Siesta.
 pm_about_credit_text: |
-  *✺ Credits for Siesta ✺*
+  *✺ Credits for Clown ✺*
 
-  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Robot Siesta
+  Disini Developers Membuat Dan Memberi Inspirasi Untuk Membuat Music Bot
 pm_help_text: |
   *✺ Klik tombol di bawah ini untuk mendapatkan deskripsi tentang perintah spesifik. ✺*
 pm_help_module_text: "Berikut adalah bantuan untuk modul *{}* :\n\n"
@@ -89,7 +89,7 @@ notes_button: "Catatan"
 source_button: "Kode sumber"
 help_button: "Mendapatkan bantuan"
 back_button: "Kembali"
-about_button: "Tentang Siesta Robot"
+about_button: "Tentang Music Bot"
 inline_button: "Mencoba inline!​​"
 
 # MODULES
