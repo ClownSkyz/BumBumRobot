@@ -128,7 +128,7 @@ async def logo_gen(event):
 
 @register(pattern="^/wlogo ?(.*)")
 async def logo_(event):
-    xx = await event.reply("`🐻 Bum Bum Creating Logo...`")
+    xx = await event.reply("`🐻 Music Bot Creating Logo...`")
     name = event.pattern_match.group(1)
     if not name:
         await xx.edit("`Provide some text to draw!\nExample: /wlogo <your name>!`")
