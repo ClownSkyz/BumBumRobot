@@ -121,14 +121,14 @@ async def alive_function(answers):
     )
 
     msg = f"""
-**[Bum Bum Robot 🐻](https://t.me/dbzea):**
+**[Music Bot](https://t.me/dbzea):**
 **MainBot:** `{bot_state}`
 **UserBot:** `{ubot_state}`
 **Python:** `{pyver.split()[0]}`
 **Pyrogram:** `{pyrover}`
 **MongoDB:** `{mongover}`
 **Platform:** `{sys.platform}`
-**Profiles:** [BOT](t.me/{BOT_USERNAME}) | [OWNER BOT](t.me/zenzuzu2)
+**Profiles:** [BOT](t.me/{BOT_USERNAME}) | [OWNER BOT](t.me/FvckMiaw)
 """
     answers.append(
         InlineQueryResultArticle(
